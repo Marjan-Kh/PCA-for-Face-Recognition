@@ -1,4 +1,4 @@
-### PCA-for-Face-Recognition
+### PCA for Face Recognition
 Eigenfaces — Face Classification 
 
 A PCA applied to a face recognition problem in a way to:

@@ -1,7 +1,7 @@
 # PCA-for-Face-Recognition
 Eigenfaces — Face Classification 
 
-A PCA applied to face recognition problem in a way to:
+A PCA applied to a face recognition problem in a way to:
 
 - Reducing the dimensionality of the dataset,
 - Keeping only the components that explain the most variance,
